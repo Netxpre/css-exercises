@@ -1,3 +1,13 @@
 .one, .three,.five {
     background-color: #ffacac;
+    font-family: Verdana, sans-serif; 
+}
+
+.two, .four {
+    font-weight: bold;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
 }
