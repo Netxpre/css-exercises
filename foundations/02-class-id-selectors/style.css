@@ -1,13 +1,21 @@
-.one, .three,.five {
+.odd {
     background-color: #ffacac;
-    font-family: Verdana, sans-serif; 
+    font-family: Verdana, "DejaVu Sans",sans-serif; 
 }
 
-.two, .four {
+#two, #four {
     font-weight: bold;
+}
+
+.adjust-font {
+    font-size: 24px;
 }
 
 #two {
     color: #0000ff;
     font-size: 36px;
+}
+
+#four {
+    background-color: rgb(117, 255, 129);
 }
